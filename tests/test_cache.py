@@ -1,0 +1,1 @@
+# Integration test for Redis cache miss
